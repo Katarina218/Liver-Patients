@@ -1,5 +1,5 @@
 # Liver-Patients
-We performed exploratory analysis on 583 liver-patient lab records (correcting a column-naming mismatch first), compared diseased vs. healthy patients and male vs. female patients using boxplots and a Mann-Whitney U test, then built a logistic regression classifier to predict disease status and tuned its decision threshold using an ROC curve to balance recall between the two classes.
+I performed exploratory analysis on 583 liver-patient lab records (correcting a column-naming mismatch first), compared diseased vs. healthy patients and male vs. female patients using boxplots and a Mann-Whitney U test, then built a logistic regression classifier to predict disease status and tuned its decision threshold using an ROC curve to balance recall between the two classes.
 
 # goal
 built a model to predict disease status
